@@ -1,0 +1,120 @@
+1 GoodGame	datvuthanh	0.706	dataset1412_aug01.zip	14/12/2021
+1 GoodGame	datvuthanh	0.703	dataset2311_aug04.zip	24/11/2021
+1 GoodGame	datvuthanh	0.688	dataset0512_aug01.zip	6/12/2021
+4	GoodGame	datvuthanh	0.684	dataset2711_aug01.zip	27/11/2021
+5	GoodGame	datvuthanh	0.675	dataset0512_aug03.zip	5/12/2021
+6	TheFireAntColony	baobn	0.669	ver4.zip	5/12/2021
+7	TheFireAntColony	baobn	0.667	ver4_2.zip	16/12/2021
+8	GoodGame	datvuthanh	0.667	dataset0112_aug04.zip	1/12/2021
+9	TheFireAntColony	baobn	0.663	ver4_1.zip	9/12/2021
+10	GoodGame	datvuthanh	0.662	dataset0712_aug02.zip	8/12/2021
+11	N2B	wolverine	0.658	submit16.zip	5/12/2021
+12	Not a Number	NaN	0.657	exp29best630last582.zip	5/12/2021
+13	GoodGame	datvuthanh	0.654	dataset1012_aug03.zip	10/12/2021
+14	TheFireAntColony	baobn	0.653	ver7.zip	12/12/2021
+15	GoodGame	datvuthanh	0.653	dataset1212_aug02.zip	12/12/2021
+16	Not a Number	NaN	0.652	exp31best687last555.zip	6/12/2021
+17	Not a Number	NaN	0.651	exp28best651last551.zip	29/11/2021
+18	N2B	wolverine	0.65	submit7.zip	10/11/2021
+19	N2B	wolverine	0.649	submit19.zip	14/12/2021
+20	TheFireAntColony	baobn	0.647	ver4_3.zip	18/12/2021
+21	TheFireAntColony	baobn	0.646	ver4_4.zip	18/12/2021
+22	N2B	wolverine	0.645	submit4.zip	3/11/2021
+23	TheFireAntColony	baobn	0.645	ver6.zip	8/12/2021
+24	GoodGame	datvuthanh	0.645	dataset2311_aug05.zip	24/11/2021
+25	TheFireAntColony	baobn	0.644	ver3.zip	5/12/2021
+26	N2B	wolverine	0.642	submit5.zip	7/11/2021
+27	vtyh	vtyh	0.64	dataset1.zip	7/12/2021
+28	Not a Number	NaN	0.637	exp30best661val522.zip	6/12/2021
+29	N2B	wolverine	0.636	submit15.zip	5/12/2021
+30	Not a Number	NaN	0.635	exp24val678.zip	16/12/2021
+31	PhucU	vovanphuc	0.633	data_submit_17.zip	12/12/2021
+32	N2B	wolverine	0.633	submit12.zip	28/11/2021
+33	VIMARU61	buitungduong	0.631	friend_cleaned.zip	9/12/2021
+34	TheFireAntColony	baobn	0.631	ver7_1.zip	12/12/2021
+35	N2B	wolverine	0.63	submit14.zip	5/12/2021
+36	VIMARU61	buitungduong	0.63	kanna.zip	10/12/2021
+37	GoodGame	datvuthanh	0.629	dataset1312_aug01.zip	14/12/2021
+38	N2B	wolverine	0.626	submit13.zip	28/11/2021
+39	Not a Number	NaN	0.626	exp25val682.zip	29/11/2021
+40	N2B	wolverine	0.624	submit8.zip	14/11/2021
+41	vtyh	vtyh	0.623	dataset3.zip	9/12/2021
+42	WinnerWinner	2hands	0.621	dataset_20211205.zip	5/12/2021
+43	N2B	wolverine	0.621	submit11.zip	21/11/2021
+44	GoodGame	datvuthanh	0.62	dataset1911_aug02.zip	19/11/2021
+45	N2B	wolverine	0.62	submit9.zip	17/11/2021
+46	N2B	wolverine	0.62	submit21.zip	14/12/2021
+47	Not a Number	NaN	0.62	exp26best683last614.zip	13/12/2021
+48	vtyh	vtyh	0.619	dataset4.zip	11/12/2021
+49	VIMARU61	buitungduong	0.619	friend_purify_8515.zip	16/12/2021
+50	Not a Number	NaN	0.619	exp32best675last559.zip	13/12/2021
+51	N2B	wolverine	0.618	submit10.zip	22/11/2021
+52	BME-DS	vnk8071	0.618	BMEDSv8.1.zip	14/12/2021
+53	Not a Number	NaN	0.617	exp34best647last575.zip	18/12/2021
+54	PhucU	vovanphuc	0.616	data_submit_13.zip	1/12/2021
+55	N2B	wolverine	0.616	submit20.zip	14/12/2021
+56	vtyh	vtyh	0.616	dataset1.zip	16/12/2021
+57	PhucU	vovanphuc	0.615	data_submit_16.zip	9/12/2021
+58	WinnerWinner	2hands	0.615	dataset_retrain.zip	19/11/2021
+59	Chicken	Chicken	0.613	augmented_data_17_10_12.zip	12/12/2021
+60	PhucU	vovanphuc	0.611	data_submit_11.zip	24/11/2021
+61	No Name	TorRient	0.611	dataset-v10-process-custom-aug_av.zip	17/11/2021
+62	N2B	wolverine	0.611	submit6.zip	7/11/2021
+63	Not a Number	NaN	0.611	exp33best690last563.zip	11/12/2021
+64	No Name	TorRient	0.609	dataset-v8-no-augment-process.zip	15/11/2021
+65	PhucU	vovanphuc	0.608	data_submit_12.zip	30/11/2021
+66	No Name	TorRient	0.608	dataset_process.zip	4/11/2021
+67	vtyh	vtyh	0.608	dataset3.zip	16/12/2021
+68	VIMARU61	buitungduong	0.607	friend.zip	8/12/2021
+69	vtyh	vtyh	0.607	dataset.zip	17/11/2021
+70	No Name	TorRient	0.607	v21.zip	12/12/2021
+71	PhucU	vovanphuc	0.605	data_submit_10.zip	24/11/2021
+72	N2B	wolverine	0.605	submit17.zip	9/12/2021
+73	vtyh	vtyh	0.604	dataset.zip	21/11/2021
+74	VTF	DoDuy	0.604	datasetv8.zip	21/11/2021
+75	vtyh	vtyh	0.604	dataset.zip	20/11/2021
+76	No Name	TorRient	0.603	v20.zip	8/12/2021
+77	sparc_lab	Harry	0.602	sparc_1.zip	17/12/2021
+78	No Name	TorRient	0.602	dataset-v6-no-augment.zip	14/11/2021
+79	No Name	TorRient	0.602	dataset-v11-custom-aug-av.zip	27/11/2021
+80	VIMARU61	buitungduong	0.602	friend_purify_9010.zip	16/12/2021
+81	Dinosaur	dinhngoc267	0.601	dataset_12_7_12.zip	8/12/2021
+82	No Name	TorRient	0.601	v19.zip	8/12/2021
+83	Not a Number	NaN	0.601	exp23val655.zip	22/11/2021
+84	WinnerWinner	2hands	0.6	dataset_aug_test_1.zip	5/12/2021
+85	Dinosaur	dinhngoc267	0.599	dataset_14_10_12.zip	10/12/2021
+86	minhtam	minhtam	0.599	ta_v2.zip	17/11/2021
+87	BME-DS	vnk8071	0.598	BMEDSv8.2.zip	16/12/2021
+88	WinnerWinner	2hands	0.598	dataset_2411.zip	24/11/2021
+89	WinnerWinner	2hands	0.598	datasetv8.zip	24/11/2021
+90	PhucU	vovanphuc	0.597	data_submit_18.zip	14/12/2021
+91	PhucU	vovanphuc	0.596	data_submit_14.zip	5/12/2021
+92	BME-DS	vnk8071	0.596	BMEDSv8.3.zip	16/12/2021
+93	BME-DS	vnk8071	0.596	BMEDSv7.0.zip	8/12/2021
+94	PhucU	vovanphuc	0.595	data_submit_9.zip	20/11/2021
+95	UITK14AICLUB	buidung2004	0.595	dataset3k.zip	17/12/2021
+96	vtyh	vtyh	0.595	dataset.zip	7/12/2021
+97	VIMARU61	buitungduong	0.595	friend_purify_8020.zip	16/12/2021
+98	VIMARU61	buitungduong	0.594	chousan.zip	12/12/2021
+99	No1	winner	0.594	dataset_aug112.zip	1/12/2021
+100	vtyh	vtyh	0.594	dataset2.zip	16/12/2021
+101	nam	NAMNGUYEN	0.594	7.2_c6.zip	30/11/2021
+102	nam	NAMNGUYEN	0.593	7.2_m4.zip	30/11/2021
+103	PhucU	vovanphuc	0.591	data_submit_15.zip	9/12/2021
+104	UITK14AICLUB	buidung2004	0.591	dataset3k.zip	17/12/2021
+105	Not a Number	NaN	0.591	exp27best702last660.zip	24/11/2021
+106	VTF	DoDuy	0.59	datasetv9.zip	24/11/2021
+107	No Name	TorRient	0.59	v22.zip	12/12/2021
+108	TheFireAntColony	baobn	0.587	ver3_2800_baobn.zip	2/12/2021
+109	No Name	TorRient	0.587	v13.zip	28/11/2021
+110	vtyh	vtyh	0.587	dataset4.zip	18/12/2021
+111	Penguin	Penguin	0.586	3final_data_2.zip	15/12/2021
+112	Penguin	Penguin	0.585	augmented_data_35_12_12.zip	16/12/2021
+113	N2B	wolverine	0.585	submit18.zip	12/12/2021
+114	quang	quang2007	0.585	aug_order_x.zip	24/11/2021
+115	vtyh	vtyh	0.584	dataset.zip	6/11/2021
+116	BME-DS	vnk8071	0.583	BMEDSv7.2.zip	10/12/2021
+117	2TheMoon	MaiDucHai1801	0.583	4.2.zip	9/11/2021
+118	VIMARU61	buitungduong	0.582	dataset_update_22.zip	7/11/2021
+119	PhucU	vovanphuc	0.582	data_submit_5.zip	14/11/2021
+120	quang	quang2007	0.581	aug_order_xx.zip	24/11/2021
